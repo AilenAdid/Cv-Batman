@@ -1,0 +1,40 @@
+header {
+    background-color: #E5E5E5;
+    text-align: center;
+}
+
+h1,h2{
+background-color: #c4c4c4 ; 
+font-family: 'Times New Roman', Times, serif;
+color: #005677;
+}
+
+h1{
+font-size: 35px;
+line-height: 60px;
+}
+
+h2{
+font-size: 20;
+line-height: 30px;
+}
+
+main{
+    width: 80%;
+    background-size: contain;
+}
+
+footer{
+font-size: 'Times New Roman', Times, serif;
+color: #FFFFFF;
+background-color: #005677;
+text-align: center;
+}
+.Negrita-Cursiva{
+font-weight: bold;
+font-style: italic;
+}
+
+.Negrita {
+    font-weight: bold;
+}
